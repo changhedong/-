@@ -33,8 +33,7 @@
 
 ## 经典语录  
 - **派**大**星**！我们去抓水母吧！  
-< img src="https://github.com/chenjingding/GitDemo/blob/master/%E5%9B%BE%E7%89%871.png">                     
-< img src="https://github.com/chenjingding/GitDemo/blob/master/%E6%88%AA%E5%9B%BE2.png">                     
+                   
 
 ## 我的专业是人工智能<!-- 二级标题 -->
 ## 我最喜欢的一段代码<!-- 二级标题 -->
@@ -42,6 +41,6 @@
     print(np.array([1, 2, 3]) ** 2)
 其中执行`print(np.array([1, 2, 3]) ** 2)`可输出结果。
 我最喜欢的环境管理工具是conda
- img src="https://github.com/chenjingding/GitDemo/blob/master/images/hmbb.jpeg"”<!-- 图片，设置图片宽度为800 -->
+ img src="https://github.com/changhedong/-/blob/master/%E6%88%AA%E5%9B%BE/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-02-28%20095445.png"
 我可以在IDE上使用我建立的虚拟环境
-“01 环境搭建的截图一”<!-- 图片，设置图片宽度为800 -->
+img src="https://github.com/changhedong/-/blob/master/%E6%88%AA%E5%9B%BE/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-03-10%20063750.png"
