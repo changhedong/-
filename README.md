@@ -1,7 +1,5 @@
 # 海绵宝宝的自我介绍  
 
-< img src="https://github.com/chenjingding/GitDemo/blob/master/images/hmbb.jpeg">                     
-
 大家好，我是**海绵宝宝**，住在美丽的**比基尼底层**。以下是我的自我介绍：  
 
 ---  
